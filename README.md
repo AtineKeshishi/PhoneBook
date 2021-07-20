@@ -1,9 +1,9 @@
 # Jetbrains Academy - Phone Book
 The solution is build up step by step over several stages. 
-Every stage is build upon the previous stages and get more and more advanced.
-The goal is to search 500 entries in a list of over 1 million entries.
+Every stage is built upon the knowledge learned in the previous stages and gets more and more advanced.
 
 # Output
+
 ```
 Start searching (linear search)...
 Found 500 / 500 entries. Time taken: 00 min. 5 sec. 345 ms.
