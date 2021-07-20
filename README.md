@@ -1,6 +1,6 @@
 # Jetbrains Academy - Phone Book
 The solution is build up step by step over several stages. 
-Every stage is build up on the previous stages and get more and more advanced.
+Every stage is build upon the previous stages and get more and more advanced.
 The goal is to search 500 entries in a list of over 1 million entries.
 
 # Output
